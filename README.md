@@ -14,7 +14,7 @@ public class HelloWorld {
 }
 ```
 
-Notice that `System.out.println("Hello world!");` shows the string `"Hello world!"` on the screen.
+Notice that `System.out.println("Hello world!");` shows the string `"Hello world!"` on the screen . 
 
 ## Compile program
 
