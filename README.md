@@ -1,27 +1,27 @@
-# Hello world with Java :coffee:
+# Hello wipro with Java :coffee:
 
-This is a simple **"Hello world"** done with **Java** programming language.
+This is a simple **"Hello wipro"** done with **Java** programming language.
 
 ## Source code
 
 This is the source code of the program:
 
 ```java
-public class HelloWorld {
+public class HelloWipro {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    System.out.println("Hello wipro!");
   }
 }
 ```
 
-Notice that `System.out.println("Hello world!");` shows the string `"Hello world!"` on the screen . 
+Notice that `System.out.println("Hello wipro!");` shows the string `"Hello wipro!"` on the screen . 
 
 ## Compile program
 
-To compile the "Hello World" program, type the following:
+To compile the "Hello wipro" program, type the following:
 
 ```console
-javac HelloWorld.java
+javac HelloWipro.java
 ```
 
 ## Excute the program
@@ -29,6 +29,6 @@ javac HelloWorld.java
 To execute the program, type this:
 
 ```console
-java HelloWorld
+java HelloWipro
 ```
 
